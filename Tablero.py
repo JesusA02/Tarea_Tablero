@@ -1,6 +1,6 @@
 from Ficha import *
 
-class Tablero:
+#class Tablero:
 
     #Defina aquí los atributos de Tablero
     
