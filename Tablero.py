@@ -1,10 +1,10 @@
 from Ficha import *
 
-#class Tablero:
+class Tablero:
 
     #Defina aquí los atributos de Tablero
     
-
+    casillas = 0
 
     #también va a necesitar una lista de Fichas (puede asumir un número de Fichas fijo si le parece más fácil), 
     #y un mecanismo para saber quién sigue en el turno
